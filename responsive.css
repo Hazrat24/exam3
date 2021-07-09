@@ -1,0 +1,158 @@
+
+@media all and (max-width:1200px){
+    .services-content {
+        padding: 15px 10px;
+    }
+    .service-right-text h4 {
+        font-size: 18px;
+    }
+    .card-body h5 {
+        font-weight: 500;
+    }
+    .exprience-virous-icon {
+        margin-right: 11px;
+    }
+    .client-informations img {
+        left: 42%;
+    }
+    .tech-img img {
+        width: 377px;
+    }
+    .tech-img .tech-another-img{
+        width: 227px;
+        right: -18px;
+        bottom: -44px;
+    }
+    .research-sec {
+        position: relative;
+        top: 0;
+        left: 0;
+       
+    }
+    .technology-sec {
+        margin-top: 0px;
+    }
+}
+@media (max-width:1000px){
+    .container{
+        width: 100% ;
+        margin: auto;
+    }
+    .banner-sec .carousel-caption h2 {
+        font-size: 2rem;
+        font-weight: 600;
+    }
+    .rate-content h5 {
+        font-size: 14px;
+    }
+    .rate-content h2 {
+        font-size: 35px;
+    }
+   
+}
+@media all and (max-width:995px){
+    .main-header {
+        display: none;
+    }
+    .newsletter-sec .newsletter-title {
+        font-size: 14px;
+    }
+    .newsletter-heading h6 {
+        padding: 7px 10px;
+    }
+    .card-body {
+        padding: 1rem 7px;
+    }
+    .virous-icon {
+        width: 100px;
+    }
+    .socialmedia-icon ul li a {
+        width: 33px;
+        height: 33px;
+        line-height: 33px;
+    }
+    .technology-right h2 {
+        font-size: 25px;
+    }
+    .tech-img img {
+        width: 283px;
+        margin-top: 76px;
+    }
+    .tech-img .tech-another-img {
+        right: 87px;
+    }
+    .tech-img .tech-another-img {
+        width: 155px;
+        right: -22px;
+        bottom: -21px;
+    }
+    .tech-img .tech-another-img {
+        width: 155px;
+        right: 89px;
+        bottom: -21px;
+    }
+}
+@media all and (max-width:986px){
+    .technology-sec {
+        margin-top:0;
+    }
+}
+@media all and (max-width:770px){
+    .services-virous-icon {
+        width: 40px;
+        height: 40px;
+        line-height: 37px;
+        margin-right: 8px;
+    }
+    .service-right-text h4 {
+        font-size: 15px;
+    }
+    .services-content p {
+        font-size: 13px;
+    }
+    .services-content a {
+        font-weight: 400;
+        font-size: 12px;
+    }
+    .client-content h2 {
+        font-size: 30px;
+    }
+    .client-informations img {
+        left: 37%;
+    }
+    .technology-sec{
+        margin-top: 0px;
+    }
+
+}
+@media all and (max-width:767px){
+    .tech-img .tech-another-itech-another-img {
+        right: 210px;
+    }
+   
+}
+@media all and (max-width:764px){
+    .research-sec {
+        left: 16px;
+    }
+}
+@media all and (max-width:576px){
+ 
+}
+@media all and (max-width:578px){
+    .services-content p {
+        margin-bottom: 5px;
+    }
+    .client-content h2 {
+        font-size: 25px;
+    }
+    .tech-img .tech-another-img{
+        right: 252px;
+    }
+    
+}
+@media all and (max-width:570px){
+    .tech-img .tech-another-img {
+        right: 232px;
+    }
+}
